@@ -1,0 +1,6 @@
+Django==2.2
+num2words==0.5.10
+Pillow==8.3.2
+requests==2.26.0
+pyquery==1.4.3
+
